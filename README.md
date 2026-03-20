@@ -82,3 +82,5 @@ _Box plot visualizing the spread of monetary values within each customer segment
 ## Conclusion
 
 This RFM analysis and K-Means clustering project provides actionable insights for targeted marketing strategies, allowing the business to optimize marketing spend, improve customer retention, and enhance Customer Lifetime Value (CLTV).
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/Customer-Segmentation-Project/blob/main/Segmenting_customers_using_Python.ipynb)

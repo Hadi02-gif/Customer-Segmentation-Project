@@ -57,7 +57,7 @@ Based on the K-Means clustering with `k=4`, the following customer segments were
 
 ### Elbow Method for Optimal k
 
-![Elbow Method](path/to/your/elbow_method_plot.png)
+![Elbow Method](images/elbow_method_plot.png)
 
 _This plot helps determine the optimal number of clusters by showing the Within-Cluster Sum of Squares (WCSS) for different k values._
 

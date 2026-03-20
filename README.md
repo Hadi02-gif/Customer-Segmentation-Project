@@ -69,7 +69,7 @@ _Bar plots illustrating the average Recency, Frequency, and Monetary values for 
 
 ### Distribution of Customers Across Clusters
 
-![Customer Distribution](path/to/your/customer_distribution_plot.png)
+![Customer Distribution](images/customer_distribution_plot.png)
 
 _A bar chart showing the number of customers in each of the identified clusters._
 

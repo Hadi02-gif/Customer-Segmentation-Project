@@ -63,7 +63,7 @@ _This plot helps determine the optimal number of clusters by showing the Within-
 
 ### Mean RFM Values by Cluster
 
-![Mean RFM by Cluster](path/to/your/rfm_means_plot.png)
+![Mean RFM by Cluster](images/rfm_means_plot.png)
 
 _Bar plots illustrating the average Recency, Frequency, and Monetary values for each customer segment._
 

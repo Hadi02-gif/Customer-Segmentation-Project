@@ -75,7 +75,7 @@ _A bar chart showing the number of customers in each of the identified clusters.
 
 ### Distribution of Monetary Value Across Clusters
 
-![Monetary Value Distribution](path/to/your/monetary_boxplot.png)
+![Monetary Value Distribution](images/monetary_boxplot.png)
 
 _Box plot visualizing the spread of monetary values within each customer segment._
 
